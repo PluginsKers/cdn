@@ -1,0 +1,230 @@
+[
+    {
+        "name": "课表查询",
+        "enable": true,
+        "to": "https://jwxtnew.app.nbpt.edu.cn/jwglxt/kbcx/xskbcxMobile_cxXskbcxIndex.html",
+        "tips": [
+            "高峰期存在一定的延迟。",
+            "稍安勿躁",
+            "加载错误时，请访问学生中心进行进入"
+        ],
+        "class": "daily",
+        "pined": [
+            [
+                1,
+                2,
+                3,
+                5
+            ],
+            [
+                [
+                    "07:30",
+                    "11:35"
+                ],
+                [
+                    "12:50",
+                    "17:35"
+                ],
+                [
+                    "18:00",
+                    "19:05"
+                ]
+            ],
+            [
+                4
+            ],
+            [
+                [
+                    "07:30",
+                    "11:35"
+                ],
+                [
+                    "18:00",
+                    "19:05"
+                ]
+            ]
+        ]
+    },
+    {
+        "name": "寝室热水",
+        "enable": true,
+        "to": "https://water.app.nbpt.edu.cn/weixin/student/index",
+        "tips": [],
+        "class": "life",
+        "pined": [
+            [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            [
+                [
+                    "19:00",
+                    "22:40"
+                ]
+            ]
+        ]
+    },
+    {
+        "name": "在线问答(宁职社区)",
+        "enable": true,
+        "to": "https://lexiangla.com/questions?company_from=a71dbc8ef39e11e8997c5254002f1020",
+        "tips": [
+            "hi",
+            "来自敖学长的注视。",
+            "是一个被埋没的好平台。",
+            "让生活变得更简单"
+        ],
+        "class": "official",
+        "pined": []
+    },
+    {
+        "name": "请假",
+        "enable": true,
+        "to": "https://wx.app.nbpt.edu.cn/weixin/leave",
+        "tips": [],
+        "class": "",
+        "pined": []
+    },
+    {
+        "name": "代拿快递",
+        "enable": true,
+        "to": "https://wx.app.nbpt.edu.cn/weixin/pt/create",
+        "tips": [],
+        "class": "life",
+        "pined": []
+    },
+    {
+        "name": "学生中心",
+        "enable": true,
+        "to": "http://wx.app.nbpt.edu.cn/weixin/studentcenter",
+        "tips": [],
+        "class": "daily",
+        "pined": []
+    },
+    {
+        "name": "生情直通车",
+        "enable": true,
+        "to": "http://wx.app.nbpt.edu.cn/weixin/sqztc",
+        "tips": [
+            "该渠道由官方发布，精准，高效。",
+            "老默，我想吃鱼了。"
+        ],
+        "class": "official",
+        "pined": []
+    },
+    {
+        "name": "校园门户(官网入口)",
+        "enable": true,
+        "to": "https://my.app.nbpt.edu.cn/",
+        "tips": [
+            "让生活变得更简单"
+        ],
+        "class": "official",
+        "pined": [
+            [
+                1,
+                2,
+                3,
+                5
+            ],
+            [
+                [
+                    "8:30",
+                    "11:35"
+                ],
+                [
+                    "13:30",
+                    "16:35"
+                ],
+                [
+                    "18:20",
+                    "20:30"
+                ]
+            ],
+            [
+                4
+            ],
+            [
+                [
+                    "8:30",
+                    "11:35"
+                ]
+            ]
+        ]
+    },
+    {
+        "name": "在线学习(线上平台)",
+        "enable": true,
+        "to": "https://jpkc.webs.nbpt.edu.cn/",
+        "tips": [],
+        "class": "",
+        "pined": []
+    },
+    {
+        "name": "在线学习(外网镜像)",
+        "enable": false,
+        "to": "https://webvpn.nbpt.edu.cn/",
+        "tips": [
+            "非校园网环境下使用的内网镜像"
+        ],
+        "class": "",
+        "pined": []
+    },
+    {
+        "name": "寝室电量",
+        "enable": true,
+        "to": "https://wx.app.nbpt.edu.cn/weixin/dfcz/index/",
+        "tips": [
+            "付费后存在一定的延迟，这是正常的。"
+        ],
+        "class": "life",
+        "pined": []
+    },
+    {
+        "name": "宁波职业技术学院",
+        "enable": false,
+        "to": "#/chat",
+        "tips": [
+            "让问题变得更简单"
+        ],
+        "class": "",
+        "pined": []
+    },
+    {
+        "name": "疫情填报",
+        "enable": false,
+        "to": "https://wx.app.nbpt.edu.cn/weixin/yqtb/submit",
+        "tips": [],
+        "class": "",
+        "pined": [
+            [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            [
+                [
+                    "11:35",
+                    "13:30"
+                ],
+                [
+                    "17:35",
+                    "18:30"
+                ],
+                [
+                    "00:00",
+                    "00:59"
+                ]
+            ]
+        ]
+    }
+]
